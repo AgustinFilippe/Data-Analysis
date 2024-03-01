@@ -4,13 +4,13 @@
 Welcome to my Data Analysis Portfolio! My name is Agustin Filippe, and I am a computer engineering student with a passion for Data and Artificial Intelligence. My academic and personal projects are driven by my interest in statistics, algebra, and the transformative power of data. This repository is designed to be a living document, showcasing my journey and growth in the field of data analysis.
 
 ## About This Repository
-This repository is currently in the early stages of development. It is intended to become a comprehensive showcase of my skills in data analysis, including projects that utilize tools such as MySQL, Excel, Power BI, Tableau, and Python. As I continue to learn and grow as a data analyst, I will update this repository with new projects that reflect my latest skills and insights.
+This repository is currently in the early stages of development. It is intended to become a comprehensive showcase of my skills in data analysis, including projects that utilize tools such as PostgreSQL, Excel, Power BI, Tableau, and Python. As I continue to learn and grow as a data analyst, I will update this repository with new projects that reflect my latest skills and insights.
 
 ## Upcoming Projects
 While specific projects are not yet listed, the following are areas I am interested in exploring and plan to develop projects around:
 - Data visualization and storytelling with Power BI and Tableau.
 - Predictive modeling using Python and statistical analysis techniques.
-- Database management and data manipulation with MySQL.
+- Database management and data manipulation with PostgreSQL.
 - Advanced analytics projects leveraging machine learning algorithms.
 
 ## Skills and Tools
